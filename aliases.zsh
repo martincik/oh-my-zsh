@@ -5,6 +5,8 @@ alias cdp='cd ~/Projects'
 alias cdpx='cd ~/Projects/xing'
 alias cdpp='cd ~/Projects/personal'
 
+alias sex='source ~/xing_env.sh'
+
 alias sc='ruby script/console'
 alias sd='ruby script/server --debugger'
 alias ss='thin --stats "/thin/stats" start'
