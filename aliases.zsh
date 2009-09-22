@@ -44,6 +44,7 @@ alias et='mate . &'
 alias ett='mate app config lib db public spec test Rakefile Capfile Todo &'
 alias etp='mate app config lib db public spec test vendor/plugins vendor/gems Rakefile Capfile Todo &'
 alias etts='mate app config lib db public script spec test vendor/plugins vendor/gems Rakefile Capfile Todo &'
+alias etx='mate bin app config engines lib db locale public script test Rakefile Capfile ReleaseNotes.markdown vendor/solr vendor/plugins vendor/jsdoc vendor/xing_production_log_analyzer &'
 
 
 
