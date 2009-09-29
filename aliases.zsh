@@ -1,10 +1,6 @@
 alias pu='pushd'
 alias po='popd'
 
-alias cdp='cd ~/Projects'
-alias cdpx='cd ~/Projects/xing'
-alias cdpp='cd ~/Projects/personal'
-
 alias sex='source ~/xing_env.sh'
 
 alias sc='ruby script/console'
